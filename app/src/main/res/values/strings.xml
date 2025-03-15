@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP_PIZZA</string>
+    <string name="pizza_logo">Pizza Logo</string>
+    <string name="pizza_image">Pizza Image</string>
+    <string name="share">Share</string>
+    <string name="pizza_recipes">Pizza recipes</string>
+</resources>
